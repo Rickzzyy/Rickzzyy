@@ -2,7 +2,6 @@
   <center>
 <h1 align="center">~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
 <br>
-    
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNjcndwaG5oMTdtaTh1Y2dpMzBrZHdqemNucTVrOHozanA1bjVkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sq5aOnj3hRMA7Rhbuo/giphy.gif" align="right">
@@ -29,11 +28,11 @@
 <br><br><br>
 </div>
 <div>
-  
+<br>
+<br>
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
  <br>
- <br>
- <br>
+ 
 <p>
   <div align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFodm94ejRzejJkNzQxYnY0OTVscm85OW9oeWlxZXNyN3A5d3p6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ChX3hzy5CkXsI/giphy.gif" align="right">
