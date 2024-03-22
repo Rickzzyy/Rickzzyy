@@ -44,9 +44,6 @@
 </p>
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-  <div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFkYnhjbHR2MnVieGNpbmhyengxN3dyMWVrZDRncXE0eXMwc3c2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYrhcl17YmhQzu0/giphy.gif" align="right" width="373.5px" height="208.5px">
-  </div>
 <br>
 <div align="center">
 <a href="https://github.com/Rickzzyy" target="_blank">
