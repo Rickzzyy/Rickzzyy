@@ -7,6 +7,8 @@
   <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNjcndwaG5oMTdtaTh1Y2dpMzBrZHdqemNucTVrOHozanA1bjVkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sq5aOnj3hRMA7Rhbuo/giphy.gif" align="right">
   </div>
+  <br/>
+  <br/>
 <li>
  <b>Name:</b> Ricards
 </li>
