@@ -60,7 +60,7 @@
 <a href="https://codepen.com/Rickzzyy" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
-</div>  <img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+</div>  
 </div>
 <br>
 <div>
