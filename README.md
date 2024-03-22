@@ -5,7 +5,7 @@
     
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://media2.giphy.com/media/fyRjICUy5UZA4/giphy.webp?cid=790b7611gk1fg8fkezwjdjzxtiedp8asrqrfppvj4sg5k56x&ep=v1_gifs_search&rid=giphy.webp&ct=g" align="right">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzg2aXhjaXo2amVmc3ZkeDJ5OXp4eGFwaGphNndqb213enppc25xYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f5j7RrDZTGtpHGISN7/giphy.gif" align="right">
   </div>
 <li>
  <b>Name:</b> Ricards
