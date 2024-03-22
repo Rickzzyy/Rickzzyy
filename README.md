@@ -41,7 +41,7 @@
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFkYnhjbHR2MnVieGNpbmhyengxN3dyMWVrZDRncXE0eXMwc3c2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYrhcl17YmhQzu0/giphy.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
 <div align="center">
@@ -61,10 +61,7 @@
 </div>
 <br>
 <div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickzzyy&hide_border=true&layout=compact" align="center" /></div>  
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-
-<hr>
 </div>
 </div>
     </center>
