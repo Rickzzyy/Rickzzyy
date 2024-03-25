@@ -2,33 +2,6 @@
   <center>
 <h1 align="center">~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
 <br>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-  <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNjcndwaG5oMTdtaTh1Y2dpMzBrZHdqemNucTVrOHozanA1bjVkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sq5aOnj3hRMA7Rhbuo/giphy.gif" align="right">
-  </div>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-<li>
- <b>Name:</b> Ricards
-</li>
-<li>
-<b>Loves:</b> anime, hockey, programming
-</li>
-<li>
-<b>Gender:</b> he/him/Male 
-</li>
-<li>
-<b>Hobbys:</b> Hockey, Tennis
-</li>
-<li>
-<b>Working @:</b> viaPro SIA 
-</li>
-<br><br><br>
-</div>
-<div>
-<br>
 <br>
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
  <br>
